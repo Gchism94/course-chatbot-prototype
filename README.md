@@ -26,7 +26,7 @@ SQL Agentic RAG Chatbot is an advanced, AI-powered interface for interacting wit
 
 See the SQL Agentic RAG Chatbot in action:
 
-![Demo Video](path/to/your/uploaded/video.gif)
+![Demo Video]([path/to/your/uploaded/video.gif](https://github.com/naman1618/sql_agentic_rag_chatbot/blob/main/sql_rag.mp4))
 
 This demo showcases:
 - Connecting to a sample database
