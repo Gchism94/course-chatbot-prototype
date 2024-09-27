@@ -1,5 +1,11 @@
 # SQL Agentic RAG Chatbot
 
+## Demo
+
+See the SQL Agentic RAG Chatbot in action:
+
+![Demo Video](https://github.com/naman1618/sql_agentic_rag_chatbot/blob/main/sql_rag-ezgif.com-video-to-gif-converter.gif)
+
 ## Overview
 
 SQL Agentic RAG Chatbot is an advanced, AI-powered interface for interacting with SQL databases using natural language. This innovative tool combines the power of Language Models (LLMs) with Retrieval-Augmented Generation (RAG) to provide an intuitive, conversational approach to database querying and analysis.
@@ -21,12 +27,6 @@ SQL Agentic RAG Chatbot is an advanced, AI-powered interface for interacting wit
 3. **Database Interaction**: The generated SQL query is executed against the connected database.
 4. **Result Interpretation**: The raw SQL results are processed and interpreted by the AI.
 5. **Natural Language Response**: A human-readable answer is generated, explaining the query results in context.
-
-## Demo
-
-See the SQL Agentic RAG Chatbot in action:
-
-![Demo Video](https://github.com/naman1618/sql_agentic_rag_chatbot/blob/main/sql_rag-ezgif.com-video-to-gif-converter.gif)
 
 This demo showcases:
 - Connecting to a sample database
